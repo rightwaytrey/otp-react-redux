@@ -750,6 +750,8 @@ components:
         Une desserte en transports a été trouvée mais ne correspond pas à vos
         critères. Veuillez ajuster votre recherche.
       header: Aucune desserte selon vos critères
+    FEW_TRANSIT_ROUTES:
+      advisory: Peu de lignes circulent à cette heure-ci.
     NO_TRANSIT_OPTION_FOUND:
       advisory: Aucune option en transports n'a été trouvée pour cette recherche.
     OTP_RR_TRIP_IN_PAST:

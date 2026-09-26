@@ -732,6 +732,8 @@ components:
     noDeviceForPush: Register your device using the mobile app to access push notifications.
     notificationChannelPrompt: "Receive notifications about your saved trips via:"
   OTP2ErrorRenderer:
+    FEW_TRANSIT_ROUTES:
+      advisory: Few routes run at this hour.
     LOCATION_NOT_FOUND:
       body: >-
         {inputFields} {inputFieldsCount, plural, =0 {} one {location is} other
